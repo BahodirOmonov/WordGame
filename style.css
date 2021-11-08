@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+}
+
+
+.general {
+	color: white;
+	border: 1px solid green;
+	width: 400px;
+	height: 300px;
+	margin:  100px auto;
+	padding: 20px;
+	background-color: #2f3dff;
+}
+
+.btn {
+	padding: 12px;
+	width: 100%;
+	font-size: 22px;
+	color: white;
+	background-color: black;
+	font-weight: bold;
+}
+
+.user {
+	height: 80px;
+}
